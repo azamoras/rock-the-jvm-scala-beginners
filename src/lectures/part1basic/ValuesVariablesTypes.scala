@@ -15,4 +15,6 @@ object ValuesVariablesTypes  extends App {
 
   println(asString)
 
+  println("hello word" +  asString)
+
 }
